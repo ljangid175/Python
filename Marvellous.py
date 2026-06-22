@@ -1,0 +1,8 @@
+def addition(no1, no2):
+    Ans = 0
+    Ans = no1 + no2
+    return Ans
+
+def substraction(no1, no2):
+    Ans = no1 - no2
+    return Ans
